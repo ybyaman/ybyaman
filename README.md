@@ -12,6 +12,7 @@
 - 🤖 Exploring ML-based approaches for anomaly detection — moving beyond fixed-threshold alarms
 - 🌐 Interested in networking, network security, and how AI can make infrastructure self-diagnosing
 - 📈 Also enjoy applying ML to practical prediction problems (e.g. price prediction models)
+- 🇹🇷 Based in Turkey — feel free to reach out in Turkish or English
 
 ---
 
@@ -44,12 +45,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ybyaman&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybyaman&layout=compact&hide_border=true&theme=default" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ybyaman&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ybyaman&layout=compact&hide_border=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ybyaman&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ybyaman&theme=default&hide_border=true" />
 </p>
 
 ---
@@ -72,11 +73,26 @@
 
 ---
 
+<details>
+<summary>🔧 Görseller yine kırık görünürse (yedek adresler)</summary>
+
+Bu servisler ücretsiz paylaşımlı sunucularda çalışıyor, bazen yoğunluktan geçici olarak düşebiliyor. Kırık görünürse şu adresleri dener misin:
+
+- **Stats/Top Langs:** `github-stats-extended.vercel.app` çalışmazsa → `github-readme-stats-fast.vercel.app` (aynı parametrelerle, örn: `https://github-readme-stats-fast.vercel.app/api?username=ybyaman&show_icons=true`)
+- **Streak:** `streak-stats.demolab.com` çalışmazsa → `github-readme-streak-stats-eight.vercel.app`
+- **Trophy:** `github-profile-trophy.vercel.app` genelde stabil ama sürekli sorun olursa kaldırılabilir, kritik bir bölüm değil
+
+En kalıcı çözüm: bu görselleri kendi hesabında GitHub Actions ile üretmek (snake animasyonuna benzer şekilde) — bu durumda hiçbir dış servise bağımlı kalmazsın, her gün otomatik statik SVG üretilir ve asla "kırık" görünmez. İstersen bu workflow'u da hazırlarım.
+
+</details>
+
+---
+
 ### 📫 Connect
 
 <p align="left">
   <!-- Add your real links below -->
-  <a href="https://linkedin.com/in/ybugraymn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
