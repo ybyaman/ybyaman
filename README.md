@@ -37,7 +37,6 @@
 | [🏠 house-price-prediction](https://github.com/ybyaman/house-price-prediction) | ML regression model predicting housing prices from structured data |
 | [🛡️ port-scanner-project](https://github.com/ybyaman/port-scanner-project) | A network port scanner exploring network security fundamentals |
 
-> 💡 Tip: Add a one-line description to each repo on GitHub (via the ⚙️ gear icon on the repo page) — they'll automatically show up under the project name here and on your pinned cards.
 
 ---
 
