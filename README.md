@@ -12,7 +12,6 @@
 - 🤖 Exploring ML-based approaches for anomaly detection — moving beyond fixed-threshold alarms
 - 🌐 Interested in networking, network security, and how AI can make infrastructure self-diagnosing
 - 📈 Also enjoy applying ML to practical prediction problems (e.g. price prediction models)
-- 🇹🇷 Based in Turkey — feel free to reach out in Turkish or English
 
 ---
 
@@ -45,9 +44,31 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ybyaman&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ybyaman&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybyaman&layout=compact&hide_border=true&theme=default" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ybyaman&theme=default&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ybyaman&theme=flat&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ybyaman/ybyaman/output/github-contribution-grid-snake.svg" />
+</p>
+
+> ⚠️ Bu görsel otomatik oluşmaz — aşağıdaki "Snake animasyonu nasıl kurulur" bölümüne bak.
 
 ---
 
@@ -55,5 +76,46 @@
 
 <p align="left">
   <!-- Add your real links below -->
-  <a href="https://www.linkedin.com/in/ybugraymn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ybugraymn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ybyaman&label=Profile%20views&color=2E9EF7&style=flat" />
+</p>
+
+---
+
+<details>
+<summary>🐍 Snake animasyonu nasıl kurulur (opsiyonel)</summary>
+
+1. `ybyaman/ybyaman` reposunda `.github/workflows/snake.yml` adında bir dosya oluştur, içine şunu yapıştır:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ybyaman
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Commit et, Actions sekmesinden bir kere manuel çalıştır (`workflow_dispatch`)
+3. Her gün otomatik güncellenecek ve README'deki snake görseli canlanacak
+
+</details>
