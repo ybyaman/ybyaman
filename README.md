@@ -52,14 +52,6 @@
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ybyaman&theme=flat&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -71,7 +63,7 @@
 ### 📫 Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ybugrayaman"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
