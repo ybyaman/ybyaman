@@ -12,7 +12,6 @@
 - 🤖 Exploring ML-based approaches for anomaly detection — moving beyond fixed-threshold alarms
 - 🌐 Interested in networking, network security, and how AI can make infrastructure self-diagnosing
 - 📈 Also enjoy applying ML to practical prediction problems (e.g. price prediction models)
-- 🇹🇷 Based in Turkey — feel free to reach out in Turkish or English
 
 ---
 
@@ -68,24 +67,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ybyaman/ybyaman/output/github-contribution-grid-snake.svg" />
 </p>
-
-> ⚠️ Bu görsel otomatik oluşmaz — aşağıdaki "Snake animasyonu nasıl kurulur" bölümüne bak.
-
----
-
-<details>
-<summary>🔧 Görseller yine kırık görünürse (yedek adresler)</summary>
-
-Bu servisler ücretsiz paylaşımlı sunucularda çalışıyor, bazen yoğunluktan geçici olarak düşebiliyor. Kırık görünürse şu adresleri dener misin:
-
-- **Stats/Top Langs:** `github-stats-extended.vercel.app` çalışmazsa → `github-readme-stats-fast.vercel.app` (aynı parametrelerle, örn: `https://github-readme-stats-fast.vercel.app/api?username=ybyaman&show_icons=true`)
-- **Streak:** `streak-stats.demolab.com` çalışmazsa → `github-readme-streak-stats-eight.vercel.app`
-- **Trophy:** `github-profile-trophy.vercel.app` genelde stabil ama sürekli sorun olursa kaldırılabilir, kritik bir bölüm değil
-
-En kalıcı çözüm: bu görselleri kendi hesabında GitHub Actions ile üretmek (snake animasyonuna benzer şekilde) — bu durumda hiçbir dış servise bağımlı kalmazsın, her gün otomatik statik SVG üretilir ve asla "kırık" görünmez. İstersen bu workflow'u da hazırlarım.
-
-</details>
-
 ---
 
 ### 📫 Connect
