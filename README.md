@@ -36,6 +36,7 @@
 | [🔍 AnomolyDetection](https://github.com/ybyaman/AnomolyDetection) | Anomaly detection work — identifying abnormal patterns in system/network data |
 | [🏠 house-price-prediction](https://github.com/ybyaman/house-price-prediction) | ML regression model predicting housing prices from structured data |
 | [🛡️ port-scanner-project](https://github.com/ybyaman/port-scanner-project) | A network port scanner exploring network security fundamentals |
+| [🧛 vampir-koyu](https://github.com/ybyaman/vampir-koyu) | Real-time, self-hosted social deduction party game (Werewolf/Mafia-style, vampire themed) — Node.js, Socket.io, SQLite |
 
 ---
 
