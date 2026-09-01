@@ -38,6 +38,7 @@
 | [🛡️ port-scanner-project](https://github.com/ybyaman/port-scanner-project) | A network port scanner exploring network security fundamentals |
 | [🧛 vampir-koyu](https://github.com/ybyaman/vampir-koyu) | Real-time, self-hosted social deduction party game (Werewolf/Mafia-style, vampire themed) — Node.js, Socket.io, SQLite |
 | [🎮 game-player-anomaly-detection](https://github.com/ybyaman/game-player-anomaly-detection) | Detects suspicious (cheating) player behavior in a simulated multiplayer FPS — Isolation Forest on aim speed, accuracy, and reaction-time features |
+| [🔒 TTAnomalyDetection](https://github.com/ybyaman/TTAnomalyDetection) *(Private)* | End-to-end anomaly detection & automated root-cause analysis (RCA) system for a telecom operator's fiber (FTTx/GPON) access network. Rule-based device checks (ONT/HGW/STB/OLT) against threshold rules feed a Neo4j causal knowledge graph (140+ metrics) for multi-hop RCA reasoning (RAG), and a self-hosted LLM (Qwen2.5 via Ollama) turns detected anomalies into human-readable diagnosis reports — FastAPI + PostgreSQL backend with a live monitoring dashboard. |
 
 ---
 
