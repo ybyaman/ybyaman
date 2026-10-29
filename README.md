@@ -40,7 +40,7 @@
 
 | Project | Description |
 |---|---|
-| | 🔒 TTAnomalyDetection *(private)* | End-to-end anomaly detection and root-cause analysis for a telecom access network: rule-based detection, a Neo4j knowledge graph with RAG-based multi-hop reasoning, and a self-hosted LLM (Ollama) that generates readable diagnosis reports. FastAPI, PostgreSQL, live dashboard | |
+| 🔒 TTAnomalyDetection *(private)* | End-to-end anomaly detection and root-cause analysis for a telecom access network: rule-based detection, a Neo4j knowledge graph with RAG-based multi-hop reasoning, and a self-hosted LLM (Ollama) that generates readable diagnosis reports. FastAPI, PostgreSQL, live dashboard |
 | [🎮 game-player-anomaly-detection](https://github.com/ybyaman/game-player-anomaly-detection) | Detects suspicious player behavior in a simulated multiplayer FPS using Isolation Forest (aim speed, accuracy, reaction time) |
 | [🔍 AnomolyDetection](https://github.com/ybyaman/AnomolyDetection) | Pipeline event logging and anomaly detection on system and network data |
 | [🧛 vampir-koyu](https://github.com/ybyaman/vampir-koyu) | Real-time, self-hosted social deduction party game (Node.js, Socket.io, SQLite) |
